@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "xtree": "cpp",
+        "xstring": "cpp",
+        "unordered_map": "cpp",
+        "xutility": "cpp",
+        "algorithm": "cpp",
+        "xiosbase": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "utility": "cpp",
+        "ios": "cpp",
+        "cmath": "cpp",
+        "iomanip": "cpp",
+        "map": "cpp",
+        "numeric": "cpp",
+        "bitset": "cpp",
+        "xlocale": "cpp"
+    }
+}
